@@ -17,7 +17,7 @@
 
 Run:
 
-user@desktop$ python3 snkrs.py
+user@desktop$ python3 snkrsbot.py
 
 # Future Work
 
