@@ -10,8 +10,6 @@
 
   - Python3
   - Selenium
-  - Browser: splinter
-  - bs4
 
 # Usage
 
